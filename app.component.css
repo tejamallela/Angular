@@ -1,0 +1,13 @@
+/* app.component.css */
+.main-content {
+    display: flex;
+  }
+  
+  app-sidebar {
+    flex: 1;
+  }
+  
+  app-main {
+    flex: 3;
+  }
+  
